@@ -19,6 +19,11 @@
         height: 40px;
         padding: 9px 10px;
     }
+
+    .instagram_gallery a>img
+    {
+        width: 33.3% !important;
+    }
 }
 
 @media (max-width: 380px) {
@@ -35,3 +40,4 @@
         padding: 9px 10px;
     }
 }
+

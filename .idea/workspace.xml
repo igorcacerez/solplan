@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a9f2ce46-f616-40c3-ab60-e27300a47e03" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -8,6 +9,9 @@
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="a9f2ce46-f616-40c3-ab60-e27300a47e03" name="Default Changelist" comment="" />
+>>>>>>> 043e44a9127886d1045d5e2d00d5cce73d5de874
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,7 @@
       <executable />
     </execution>
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -123,6 +128,10 @@
         <option value="$PROJECT_DIR$/assets/css/estilo.css" />
       </list>
     </option>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> 043e44a9127886d1045d5e2d00d5cce73d5de874
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="252" />
@@ -130,41 +139,11 @@
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="solplan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solplan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="solplan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solplan" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="solplan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solplan" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="solplan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solplan" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1jWLU1DUKIO45j49sdm5MIS0SLF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -172,18 +151,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -196,6 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603890068667</updated>
       <workItem from="1603890069886" duration="13228000" />
+<<<<<<< HEAD
       <workItem from="1603914450312" duration="1145000" />
     </task>
     <servers />
@@ -322,4 +290,13 @@
       </provider>
     </entry>
   </component>
+=======
+      <workItem from="1603914914387" duration="1034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+>>>>>>> 043e44a9127886d1045d5e2d00d5cce73d5de874
 </project>
