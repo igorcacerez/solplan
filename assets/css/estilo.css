@@ -1,0 +1,237 @@
+@import "fonte.css";
+
+html,body
+{
+    font-family: "Galano Grotesque",sans-serif !important;
+}
+
+.header-menu
+{
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+    background: transparent;
+    padding-top: 15px;
+}
+
+.header-menu ul
+{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-menu ul li
+{
+    display: inline-block;
+    padding: 17px 5px;
+}
+
+.header-menu ul li a
+{
+    color: #fff;
+    outline: 0;
+    text-decoration: none;
+    transition: all 0.5s;
+    font-size: 0.9em;
+}
+
+.header-menu ul li a:hover
+{
+    outline: 0;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.header-menu .icone-social
+{
+    color: #61c8d8;
+    font-size: 1.2em;
+    display: inline-block;
+    padding: 15px 4px;
+}
+
+.header-menu .abreMenu
+{
+    position: absolute;
+    top: 3px;
+    right: 0px;
+    border: none;
+    background: transparent;
+    color: #fff;
+    font-size: 2em;
+    display: none;
+}
+
+
+
+
+
+.sidebar-menu-mobile
+{
+    position: fixed;
+    top: 0px;
+    left: -150%;
+    width: 250px;
+    height: 100vh;
+    z-index: 9999999;
+    margin: 0px;
+    padding: 0px;
+    background: #684299;
+    transition: all 0.5s;
+}
+
+.fundo-menu{
+    position: fixed;
+    z-index: 998;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    display: none;
+}
+
+.menu-itens
+{
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: bold;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+.menu-itens-mobile
+{
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: bold;
+    padding: 0px 8px;
+    font-size: 20px;
+}
+
+.submenu-itens-mobile
+{
+    color: #ffffffb0 !important;
+    text-decoration: none !important;
+    font-weight: bold;
+    padding: 0px 20px;
+    font-size: 15px;
+}
+
+.submenu-itens-mobile:hover
+{
+    color: #fff !important;
+}
+
+.footer-itens
+{
+    color: #5b5b5b !important;
+    text-decoration: none !important;
+    font-weight: 800;
+    padding: 0px 10px;
+}
+
+.footer-itens:hover
+{
+    color: #f47920 !important;
+}
+
+
+
+.rodape-fixo
+{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background: #47349b;
+    z-index: 999;
+    text-align: center;
+}
+
+.rodape-fixo .img-div
+{
+    max-height: 28px;
+    max-width: 144px;
+    margin: 0px 15px;
+}
+
+.rodape-fixo .abre-link img
+{
+    background: #4bbb49;
+    height: 50px;
+    padding: 12px 22px;
+}
+
+
+#solucoes h1
+{
+    padding-bottom: 30px;
+    color: #47349b;
+    font-weight: bold;
+}
+
+#solucoes h4
+{
+    color: #618fb3 !important;
+    padding-top: 10px;
+    font-weight: normal !important;
+}
+
+#solucoes p.text-dark
+{
+    font-size: 0.9em;
+    text-align: justify;
+    padding: 5px 4px;
+    color: #a79e9e !important;
+}
+
+.pqinvestir
+{
+    background-image: url("../img/img-pq.png") !important;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.pqinvestir h1
+{
+    font-size: 3em;
+    font-weight: 500;
+}
+
+.misaoVisao .img-misao
+{
+    width: 100%;
+    max-width: 130px;
+    height: 170px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.misaoVisao h2
+{
+    font-weight: 500;
+    font-size: 2em;
+    color: #47349b;
+}
+
+.misaoVisao p
+{
+    font-weight: normal;
+    font-size: 0.9em;
+    color: #47349b;
+}
+
+.img-conta
+{
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+    padding: 30px 0px;
+}

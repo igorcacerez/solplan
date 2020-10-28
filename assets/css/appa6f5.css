@@ -1,0 +1,391 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+
+body {
+    /*font-family: 'Nunito Sans', sans-serif;*/
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+
+    background-color: #fff;
+}
+
+
+.navbar-toggler {
+ 
+ border: none !important;
+}
+.navbar-header .nav-link{font-weight: 700 !important;}
+.section {
+    position: relative;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.section-sm {
+    position: relative;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+.topo-social-sharing i {
+    color: #2083B6;
+    font-size: 1.2rem !important;
+}
+
+.sl-principal h1 {
+    font-size: 70px;
+    font-weight: 700;
+    color: #FFCD0C;
+    line-height: 90%;
+    display: block;
+}
+
+.sl-principal h2 {
+    font-size: 20px;
+    font-weight: 700;
+    display: block;
+}
+
+.sl-principal .owl-nav {
+    display: none;
+}
+
+.sl-principal .owl-dots .owl-dot span {
+    width: 15px;
+    height: 15px;
+}
+
+.sl-principal .owl-dots {
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 568px) {
+    .sl-principal h1 {
+        font-size: 35px;
+    }
+}
+
+.separator-skew {
+    height: 60px;
+}
+
+.separator-bottom {
+    top: auto;
+    bottom: 0;
+}
+.separator-top {
+    top: 0;
+    bottom: auto;
+}
+.separator-top svg {
+    top: 0;
+}
+.separator {
+    position: absolute;
+    z-index: 1;
+    top: auto;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 150px;
+    transform: translateZ(0);
+    pointer-events: none;
+    display: none;
+}
+
+.separator-bottom svg {
+    bottom: 0;
+}
+
+.separator svg {
+    position: absolute;
+    pointer-events: none;
+}
+
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.fill-white {
+    fill: #fff;
+}
+.fill-blue {
+    fill: #2083B6;
+}
+
+.fill-gray {
+    fill: #d7dbdf;
+}
+section.banners-principal {
+    background-color: #93D6F6;
+}
+
+section.solucoes img{max-width: 110px;}
+
+section.pqinvestir{background-image: url('../img/bg-panels.jpg');}
+
+section.pqinvestir h1{line-height: 90% ;}
+
+section.pqinvestir div.card {
+    height: calc(100% - 15px);
+    margin-bottom: 15px;
+}
+
+.text-shadow{ text-shadow: 2px 2px 3px rgba(150, 150, 150, 1);}
+
+.cursor.-large {
+    width: 110px;
+    height: 10px;
+}
+.cursor {
+    border-radius: 5px;
+}
+.bg-1{background-image: url('../img/bg-1.jpg'); background-position: top center;}
+.bg-2{background-image: url('../img/bg-2.jpg'); background-position: top center;}
+
+h1.entry-title {
+    font-size: 50px;
+    letter-spacing: -2px;
+    line-height: 100%;
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 800
+}
+.post-content .post-signature time {
+    font-size: 12px;
+    font-weight: 700;
+    color: #353232
+}
+@media (min-width:  300px) and (max-width: 576px)  {
+
+    .display-3{font-size: 2.8rem !important; line-height: 2.7rem;}
+    h1.entry-title {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 577px) and (max-width : 768px) {
+    h1.entry-title {
+        font-size: 35px;
+    }
+    .display-3{font-size: 4rem !important;  line-height: 3.9rem;}
+    
+}
+@media (min-width: 767px) and (max-width :992px) {
+    h1.entry-title {
+        font-size: 45px;
+    }
+
+    .display-3{font-size: 4rem !important;  line-height: 3.9rem;}
+}
+
+.header-map{max-height: 350px !important;}
+
+
+article .entry-title {
+    color: #000;
+    line-height: 100%;
+    letter-spacing: -1px
+}
+
+article .summary {
+    color: #666;
+    font-size: 18px
+}
+
+article .box_image {
+    position: relative;
+    background: #e9e9e9;
+    text-align: left
+}
+
+article abbr.data {
+    font-size: 12px;
+    color: #666;
+    display: block
+}
+
+article .texto-materia p {
+    line-height: 150%;
+    padding-bottom: 10px;
+    text-align: justify !important;
+}
+
+article .twitter-share-button {
+    height: 25px!important;
+    float: left
+}
+
+article .fb-share-button {
+    height: 25px!important;
+    float: left;
+    margin-right: 10px
+}
+
+article .box_image .credito_foto {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    padding: 2px;
+    background: url(../../library/images/bg_alpha75.html) repeat;
+    color: #fff;
+    font-size: 11px
+}
+
+article .box_image .caption_image {
+    padding: 5px;
+    color: #333;
+    font-size: 12px;
+    display: block
+}
+
+article .texto-materia {
+    line-height: 150%;
+    color: #333
+}
+
+article .texto-materia a {
+    color: #0C57A7
+}
+
+article .texto-materia a:hover {
+    color: #0C57A7;
+    text-decoration: underline
+}
+
+article .texto-materia h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 120%
+}
+
+article .texto-materia a {
+    color: #0C57A7;
+    font-weight: 700
+}
+
+article .m-share-icons {
+    text-align: center;
+    list-style: none
+}
+
+article .m-share-icons li {
+    display: inline-block
+}
+
+article .m-share-icons li a {
+    text-decoration: none;
+    color: #fff
+}
+
+article .m-share-icons li a i.icon.icon-facebook {
+    background-color: #3b5998
+}
+
+article .m-share-icons li a i.icon.icon-twitter {
+    background-color: #00aced
+}
+
+article .m-share-icons li a i.icon.icon-whatsapp {
+    background-color: #189d0e
+}
+
+article .m-share-icons li a i.icon.icon-whatsapp-web {
+    background-color: #189d0e
+}
+
+article .m-share-icons li a i.icon.icon-email {
+    background-color: #d0d0d0
+}
+
+article .m-share-icons li a i.icon.icon-print {
+    background-color: #555
+}
+
+article .m-share-icons li a i.icon.icon-whatsapp-web {
+    display: none
+}
+
+article .m-share-icons li a i.icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    margin: 0 6px;
+    padding: 0;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+    border: 0 solid #fff;
+    border-radius: 50%
+}
+
+article .m-share-icons li a i.icon svg {
+    width: 32px;
+    height: 32px;
+    fill: #fff
+}
+
+@media (min-width:992px) {
+    article .m-share-icons {
+        text-align: center;
+        width: 50px;
+        float: none
+    }
+    article .m-share-icons li a i.icon {
+        display: block;
+        margin: 0 auto 16px;
+        width: 32px;
+        height: 32px;
+        line-height: 32px
+    }
+    article .m-share-icons li {
+        display: block
+    }
+    article .m-share-icons li a {
+        text-decoration: none;
+        color: #fff
+    }
+    article .m-share-icons li a i.icon svg {
+        width: 18px;
+        height: 18px
+    }
+}
+
+@media (min-width:768px) {
+    article .m-share-icons {
+        float: right;
+        text-align: right;
+        margin-right: 10px
+    }
+    article .m-share-icons li {
+        display: block
+    }
+    article .m-share-icons li a i.icon {
+        width: 48px;
+        height: 48px;
+        line-height: 48px
+    }
+    article .m-share-icons li a i.icon svg {
+        width: 16px
+    }
+    article .m-share-icons li a i.icon.icon-whatsapp {
+        display: none
+    }
+    article .m-share-icons li a i.icon.icon-whatsapp {
+        display: block
+    }
+}
+
