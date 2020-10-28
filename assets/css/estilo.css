@@ -13,6 +13,7 @@ html,body
     width: 100%;
     background: transparent;
     padding-top: 15px;
+    z-index: 99;
 }
 
 .header-menu ul
@@ -275,4 +276,13 @@ footer p
     font-weight: normal;
     font-size: 0.9em;
     color: #6b6868;
+}
+
+
+.header-section
+{
+    height: 400px;
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    background-position: center;
 }

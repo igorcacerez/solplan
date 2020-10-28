@@ -94,7 +94,9 @@
 
 <div class="rodape-fixo">
     <img src="assets/img/contato.png" class="img-div" />
-    <img src="assets/img/endereco.png" class="img-div" />
+    <a href="index.php#endereco">
+        <img src="assets/img/endereco.png" class="img-div" />
+    </a>
     <a href="https://api.whatsapp.com/send?phone=5518997814900" target="_blank" class="abre-link">
         <img src="assets/img/whats.png" />
     </a>
