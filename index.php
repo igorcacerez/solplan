@@ -165,7 +165,42 @@
     </div>
 </div>
 
-
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h1 class="display-5 text-center" style="font-family: 'Galano Grotesque' !important;padding-bottom: 30px;color: #47349b;font-weight: bold;">
+                Nossos Clientes
+            </h1>
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/continental.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/drogamax.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/ipj.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/lide.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/lider.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/maria.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/pau.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/quinta.jpg">
+        </div>
+        <div class="col-md-2 col-4">
+            <img width="100%" src="assets/img/logos/zeta.jpg">
+        </div>
+    </div>
+</div>
 
 <section class="section simulador table-secondary" style="background: #f1f2f4;">
     <div class="container">

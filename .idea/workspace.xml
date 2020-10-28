@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
     <list default="true" id="a9f2ce46-f616-40c3-ab60-e27300a47e03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="a9f2ce46-f616-40c3-ab60-e27300a47e03" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/estilo.css" afterDir="false" />
@@ -12,6 +18,7 @@
 =======
     <list default="true" id="a9f2ce46-f616-40c3-ab60-e27300a47e03" name="Default Changelist" comment="" />
 >>>>>>> 043e44a9127886d1045d5e2d00d5cce73d5de874
+>>>>>>> 5351536ce4e36332158d416dd26b3b35f6e241aa
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,6 +171,9 @@
       <updated>1603890068667</updated>
       <workItem from="1603890069886" duration="13228000" />
 <<<<<<< HEAD
+      <workItem from="1603914914387" duration="1779000" />
+=======
+<<<<<<< HEAD
       <workItem from="1603914450312" duration="1145000" />
     </task>
     <servers />
@@ -292,6 +302,7 @@
   </component>
 =======
       <workItem from="1603914914387" duration="1034000" />
+>>>>>>> 5351536ce4e36332158d416dd26b3b35f6e241aa
     </task>
     <servers />
   </component>
