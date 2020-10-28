@@ -516,9 +516,17 @@
 </section>
 
 
-
-
-
+<!-- INSTA -->
+<div class="row" style="margin-bottom: -35px; margin-left: 0px; margin-right: 0px">
+    <div class="insta">
+        <div id="instagram-feed2">
+            <div class="row">
+                <div class="col-md-4 instagram_feed"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- FIM >> INSTA -->
 
 
 
@@ -620,6 +628,25 @@
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 <script type="text/javascript" src="assets/js/appa6f5.js?v=57"></script>
 <script src="assets/js/simuladora6f5.js?v=57" type="text/javascript"></script>
+<script src="assets/js/instaFeed.min.js"></script>
+<script>
+    (function() {
+
+        new InstagramFeed({
+            'username': 'solplan.oficial',
+            'container': document.getElementById("instagram-feed2"),
+            'display_profile': false,
+            'display_biography': false,
+            'display_gallery': true,
+            'callback': null,
+            'styling': true,
+            'items': 6,
+            'items_per_row': 6,
+            'margin': 0
+        });
+
+    })();
+</script>
 </body>
 
 
